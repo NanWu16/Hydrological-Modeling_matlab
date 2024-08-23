@@ -1,0 +1,28 @@
+!start year 
+2000  01  01
+!end year
+2018  12  31
+!warm up days
+10
+! initial soil moisture
+3
+!SCF, the snow enlargement factor
+1
+!frozen melting coefficient
+15
+!free water coefficient
+1
+!tension water coefficient
+1
+!rainfall dividing
+5
+!Save the state:: 1, else: 0
+0
+!Load the state:: 1, else: 0
+0
+!
+2
+!
+24
+!
+1
